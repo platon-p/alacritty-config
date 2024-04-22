@@ -1,0 +1,16 @@
+import = [
+    "~/.config/alacritty/keys.toml",
+    "~/.config/alacritty/env.toml",
+    "~/.config/alacritty/appearance.toml",
+]
+
+[window]
+opacity = 1.0
+resize_increments = true
+dimensions.columns = 125
+dimensions.lines = 30
+
+[cursor]
+[cursor.style]
+shape = "Beam"
+

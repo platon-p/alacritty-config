@@ -1,0 +1,6 @@
+[font]
+offset.y = 3
+normal = { family = "RobotoMono Nerd Font", style = "Regular" }
+bold = { family = "RobotoMono Nerd Font", style = "Bold" }
+bold_italic = { family = "RobotoMono Nerd Font", style = "Bold Italic" }
+italic = { family = "RobotoMono Nerd Font", style = "Italic" }

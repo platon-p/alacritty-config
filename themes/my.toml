@@ -1,0 +1,7 @@
+[colors.primary]
+background = "#282828"
+
+[colors.normal]
+red = "#FF462F"
+green = "#85BB25"
+

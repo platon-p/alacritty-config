@@ -1,0 +1,37 @@
+[[keyboard.bindings]]
+key = "K"
+mods = "Command"
+[keyboard.bindings.command]
+args=["reset"]
+program="tput"
+
+# jump through sentence
+[[keyboard.bindings]]
+key = "Left"
+mods = "Command"
+chars = "\u001bOH"
+mode = "AppCursor"
+
+[[keyboard.bindings]]
+key = "Right"
+mods = "Command"
+chars = "\u001bOF"
+mode = "AppCursor"
+
+# jump through word
+[[keyboard.bindings]]
+key = "Left"
+mods = "Alt"
+chars = "\u001bb"
+
+[[keyboard.bindings]]
+key = "Right"
+mods = "Alt"
+chars = "\u001bf"
+
+# clear word/sentence
+[[keyboard.bindings]]
+key = "Back"
+mods = "Super"
+chars = "\u0015"
+

@@ -1,0 +1,7 @@
+[font]
+offset.y = 3
+offset.x = 2
+normal = { family = "IosevkaTerm Nerd Font", style = "Regular" }
+bold = { family = "IosevkaTerm Nerd Font", style = "Bold" }
+bold_italic = { family = "IosevkaTerm Nerd Font", style = "Bold Italic" }
+italic = { family = "IosevkaTerm Nerd Font", style = "Italic" }
