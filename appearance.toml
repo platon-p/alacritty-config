@@ -1,14 +1,13 @@
 import = [
-"~/.config/alacritty/themes/my.toml",
-#"~/.config/alacritty/themes/ayu.toml",
-#"~/.config/alacritty/themes/gruvbox.toml",
+    "~/.config/alacritty/themes/my.toml",
+    #"~/.config/alacritty/themes/ayu.toml",
+    #"~/.config/alacritty/themes/gruvbox.toml",
 
-"~/.config/alacritty/fonts/roboto.toml",
-#"~/.config/alacritty/fonts/iosevka.toml",
-#"~/.config/alacritty/fonts/space.toml",
-#"~/.config/alacritty/fonts/fira.toml",
+    "~/.config/alacritty/fonts/roboto.toml",
+    #"~/.config/alacritty/fonts/iosevka.toml",
+    #"~/.config/alacritty/fonts/space.toml",
+    #"~/.config/alacritty/fonts/fira.toml",
 ]
 
 [font]
 size = 18
-
