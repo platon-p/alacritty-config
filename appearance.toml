@@ -1,3 +1,7 @@
+[font]
+size = 18
+
+[general]
 import = [
     "~/.config/alacritty/themes/my.toml",
     #"~/.config/alacritty/themes/ayu.toml",
@@ -8,6 +12,3 @@ import = [
     #"~/.config/alacritty/fonts/space.toml",
     #"~/.config/alacritty/fonts/fira.toml",
 ]
-
-[font]
-size = 18
